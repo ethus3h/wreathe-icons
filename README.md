@@ -1,4 +1,4 @@
-# wreathe-office-resources
+# wreathe-icons
 
 This package is part of Wreathe, and is maintained by the Ember project.
 
